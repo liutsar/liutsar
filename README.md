@@ -1,16 +1,26 @@
-## Hi there 👋
+# Liubomyr Tsaryniak
 
-<!--
-**liutsar/liutsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Engineer
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/liutsar/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:liutsar346@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Toolbox
+
+```javascript
+const skills = {
+    languages: ['JavaScript', 'TypeScript'],
+    frameworks: ['React', 'Next.js', 'Node.js'],
+    platforms: ['GitHub', 'Docker'],
+};
+```
+
+## 🎯 Professional Goals
+
+- Design thoughtful, well-structured solutions guided by software architecture principles
+- Improve skills and grow proficiency in modern technologies
+
+## 📬 Connect With Me
+
+- **LinkedIn**: [in/liutsar](https://www.linkedin.com/in/liutsar/)
+- **Email**: liutsar346@gmail.com
