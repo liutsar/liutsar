@@ -1,4 +1,4 @@
-# Liubomyr Tsaryniak
+# Liu T
 
 > Software Engineer
 
