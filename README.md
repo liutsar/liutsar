@@ -1,4 +1,4 @@
-# Liu T
+# Liubomyr Tsaryniak
 
 > Software Engineer
 
@@ -23,4 +23,4 @@ const skills = {
 ## 📬 Connect With Me
 
 - **LinkedIn**: [in/liutsar](https://www.linkedin.com/in/liutsar/)
-- **Email**: liutsar346@gmail.com
+- **Email**: liutsaryniak@gmail.com
