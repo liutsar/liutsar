@@ -3,15 +3,24 @@
 > Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/liutsar/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:liutsar346@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:liutsaryniak@gmail.com)
 
 ## 🛠️ Tech Toolbox
 
 ```javascript
 const skills = {
-    languages: ['JavaScript', 'TypeScript'],
-    frameworks: ['React', 'Next.js', 'Node.js'],
-    platforms: ['GitHub', 'Docker'],
+    languages: ['JavaScript', 'TypeScript', 'C#', 'Bash'],
+    frontend: ['React', 'Next.js'],
+    backend: ['Node.js', 'ASP.NET Core'],
+    databases: ['PostgreSQL'],
+    devOps: ['Linux', 'Docker', 'Nginx', 'Ansible', 'Git', 'GitHub'],
+    itSupport: [
+        'Technical Support',
+        'System Monitoring',
+        'Networking',
+        'Windows',
+        'Jira',
+    ],
 };
 ```
 
